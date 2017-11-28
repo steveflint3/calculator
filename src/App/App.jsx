@@ -21,7 +21,7 @@ inputDigit = (digit) => {
 
 inputDot = () => {
   //The line below checks to see if . is in display value.
-  if(this.state.displayValue.indexOf('.') === -1)
+  if(this.state.displayValue.indexOf('.') === -1);
   //Set the state of displayValue to equal the state of display value + '.'
 }
 
